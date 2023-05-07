@@ -1,0 +1,29 @@
+C:\Users\Alex\source\repos\HW3CSharp\HW3CSharp\bin\Debug\HW3CSharp.exe.config
+C:\Users\Alex\source\repos\HW3CSharp\HW3CSharp\bin\Debug\HW3CSharp.exe
+C:\Users\Alex\source\repos\HW3CSharp\HW3CSharp\bin\Debug\HW3CSharp.pdb
+C:\Users\Alex\source\repos\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.Properties.Resources.resources
+C:\Users\Alex\source\repos\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.exe
+C:\Users\Alex\source\repos\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.pdb
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\bin\Debug\HW3CSharp.exe.config
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\bin\Debug\HW3CSharp.exe
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\bin\Debug\HW3CSharp.pdb
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.AssemblyReference.cache
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.SuggestedBindingRedirects.cache
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.Properties.Resources.resources
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.GenerateResource.cache
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.CoreCompileInputs.cache
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.exe
+E:\Лёша\Шаг\2 курс\C#\ДЗ\C#Window Forms\HW5(Cherniy)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.pdb
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\bin\Debug\HW3CSharp.exe.config
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\bin\Debug\HW3CSharp.exe
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\bin\Debug\HW3CSharp.pdb
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.AssemblyReference.cache
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.SuggestedBindingRedirects.cache
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.Properties.Resources.resources
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.GenerateResource.cache
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.csproj.CoreCompileInputs.cache
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.exe
+E:\Лёша\Шаг\Портфолио\C#, WinForm(Калькулятор растоможки авто)\HW3CSharp\HW3CSharp\obj\Debug\HW3CSharp.pdb
